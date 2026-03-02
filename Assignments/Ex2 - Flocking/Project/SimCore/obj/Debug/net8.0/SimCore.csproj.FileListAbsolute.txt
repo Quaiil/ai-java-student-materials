@@ -1,0 +1,10 @@
+/home/jjb/Repositories/Course Materials/ai4veg-materials/Assignments/Students/Ex1 - Steering Behaviors/Project/SimCore/bin/Debug/net8.0/SimCore.deps.json
+/home/jjb/Repositories/Course Materials/ai4veg-materials/Assignments/Students/Ex1 - Steering Behaviors/Project/SimCore/bin/Debug/net8.0/SimCore.dll
+/home/jjb/Repositories/Course Materials/ai4veg-materials/Assignments/Students/Ex1 - Steering Behaviors/Project/SimCore/bin/Debug/net8.0/SimCore.pdb
+/home/jjb/Repositories/Course Materials/ai4veg-materials/Assignments/Students/Ex1 - Steering Behaviors/Project/SimCore/obj/Debug/net8.0/SimCore.GeneratedMSBuildEditorConfig.editorconfig
+/home/jjb/Repositories/Course Materials/ai4veg-materials/Assignments/Students/Ex1 - Steering Behaviors/Project/SimCore/obj/Debug/net8.0/SimCore.csproj.CoreCompileInputs.cache
+/home/jjb/Repositories/Course Materials/ai4veg-materials/Assignments/Students/Ex1 - Steering Behaviors/Project/SimCore/obj/Debug/net8.0/SimCore.sourcelink.json
+/home/jjb/Repositories/Course Materials/ai4veg-materials/Assignments/Students/Ex1 - Steering Behaviors/Project/SimCore/obj/Debug/net8.0/SimCore.dll
+/home/jjb/Repositories/Course Materials/ai4veg-materials/Assignments/Students/Ex1 - Steering Behaviors/Project/SimCore/obj/Debug/net8.0/refint/SimCore.dll
+/home/jjb/Repositories/Course Materials/ai4veg-materials/Assignments/Students/Ex1 - Steering Behaviors/Project/SimCore/obj/Debug/net8.0/SimCore.pdb
+/home/jjb/Repositories/Course Materials/ai4veg-materials/Assignments/Students/Ex1 - Steering Behaviors/Project/SimCore/obj/Debug/net8.0/ref/SimCore.dll
