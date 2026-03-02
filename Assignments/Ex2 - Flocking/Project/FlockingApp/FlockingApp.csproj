@@ -13,10 +13,10 @@
 
   <!-- Package dependencies -->
   <ItemGroup>
-    <PackageReference Include="Avalonia" Version="11.*" />
+    <PackageReference Include="Avalonia" Version="11.3.7" />
     <PackageReference Include="Avalonia.Desktop" Version="11.3.7" />
     <PackageReference Include="Avalonia.Fonts.Inter" Version="11.3.7" />
-    <PackageReference Include="Avalonia.Themes.Simple" Version="11.*" />
+    <PackageReference Include="Avalonia.Themes.Simple" Version="11.3.7" />
     <PackageReference Include="SkiaSharp" Version="3.119.1" />
     <PackageReference Include="SkiaSharp.NativeAssets.Linux" Version="3.119.1" />
     <PackageReference Include="SkiaSharp.Views" Version="3.119.1" />
