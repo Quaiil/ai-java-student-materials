@@ -1,0 +1,16 @@
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Core\bin\Debug\net8.0\Reversi.Core.deps.json
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Core\bin\Debug\net8.0\Reversi.Core.dll
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Core\bin\Debug\net8.0\Reversi.Core.pdb
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Core\bin\Debug\net8.0\LibUwu.dll
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Core\bin\Debug\net8.0\LibUwu.pdb
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Core\obj\Debug\net8.0\Reversi.Core.csproj.AssemblyReference.cache
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Core\obj\Debug\net8.0\Reversi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Core\obj\Debug\net8.0\Reversi.Core.AssemblyInfoInputs.cache
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Core\obj\Debug\net8.0\Reversi.Core.AssemblyInfo.cs
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Core\obj\Debug\net8.0\Reversi.Core.csproj.CoreCompileInputs.cache
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Core\obj\Debug\net8.0\Reversi.Core.sourcelink.json
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Core\obj\Debug\net8.0\Reversi..813F7C5B.Up2Date
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Core\obj\Debug\net8.0\Reversi.Core.dll
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Core\obj\Debug\net8.0\refint\Reversi.Core.dll
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Core\obj\Debug\net8.0\Reversi.Core.pdb
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Core\obj\Debug\net8.0\ref\Reversi.Core.dll

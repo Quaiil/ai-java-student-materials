@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FxbiEV7KDlo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qtaro\\source\\repos\\ai-java-student-materials\\Assignments\\Ex3 - Reversi\\Project\\Core\\Reversi.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qtaro\\.nuget\\packages\\system.io.hashing\\9.0.14\\system.io.hashing.9.0.14.nupkg.sha512",
+    "C:\\Users\\qtaro\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\qtaro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\qtaro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

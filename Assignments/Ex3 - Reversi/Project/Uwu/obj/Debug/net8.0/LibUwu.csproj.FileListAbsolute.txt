@@ -1,0 +1,13 @@
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Uwu\bin\Debug\net8.0\LibUwu.deps.json
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Uwu\bin\Debug\net8.0\LibUwu.dll
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Uwu\bin\Debug\net8.0\LibUwu.pdb
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Uwu\obj\Debug\net8.0\LibUwu.csproj.AssemblyReference.cache
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Uwu\obj\Debug\net8.0\LibUwu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Uwu\obj\Debug\net8.0\LibUwu.AssemblyInfoInputs.cache
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Uwu\obj\Debug\net8.0\LibUwu.AssemblyInfo.cs
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Uwu\obj\Debug\net8.0\LibUwu.csproj.CoreCompileInputs.cache
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Uwu\obj\Debug\net8.0\LibUwu.sourcelink.json
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Uwu\obj\Debug\net8.0\LibUwu.dll
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Uwu\obj\Debug\net8.0\refint\LibUwu.dll
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Uwu\obj\Debug\net8.0\LibUwu.pdb
+C:\Users\qtaro\source\repos\ai-java-student-materials\Assignments\Ex3 - Reversi\Project\Uwu\obj\Debug\net8.0\ref\LibUwu.dll
